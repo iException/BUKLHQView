@@ -1,0 +1,6 @@
+framework module BUKLHQView {
+  umbrella header "BUKLHQView-umbrella.h"
+
+  export *
+  module * { export * }
+}
